@@ -54,6 +54,7 @@
 
 - clone the repo
 - run uv sync
-- create a .env and give the gemini_api_key value. Thats it.
+- create a .env and give the GROQ_API_KEY value. Thats it.
+- groq has much better rate limits compared to gemini.
 
 - with minimal change, this can also be configured for open ai keys as well.
